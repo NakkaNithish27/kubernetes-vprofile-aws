@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/61420543-40b2-4c00-af0e-871f3e857300" />
+
+
 ## 1. Validation Overview
 
 Validation verifies that the Kubernetes deployment is not only created, but that the individual components are functioning together as an application.
