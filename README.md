@@ -2,6 +2,9 @@
 
 A hands-on Kubernetes deployment project that deploys an existing containerized multi-tier **vProfile** workload onto an AWS-hosted Kubernetes cluster using **kOps**, Kubernetes Deployments and Services, persistent storage, Secrets, and Ingress.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8f71786d-9ef7-4836-8a3e-70bc7b0671dd" />
+
+
 > **Portfolio focus:** This repository represents the Kubernetes/AWS deployment engineering performed around the application workload. It does **not** claim ownership of the vProfile application's business logic or original application development.
 
 ---
