@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/496487f4-6f06-42ab-9afd-e56f65205ba9" />
+
+
 ## 1. Implementation Overview
 
 This project implements the Kubernetes deployment layer for an existing containerized vProfile workload.
