@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc92cb42-ca77-47ae-852f-b136b54845e6" />
+
+
 ## 1. Architecture Overview
 
 This project deploys the existing containerized **vProfile multi-tier application** onto a Kubernetes cluster running on AWS.
