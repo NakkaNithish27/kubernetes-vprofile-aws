@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad9e38d4-8fef-44df-9d2d-2b709497e27c" />
+
+
 ## 1. Purpose
 
 This document defines the boundaries of the **Kubernetes vProfile deployment on AWS** project and identifies logical areas for future improvement.
